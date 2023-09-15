@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Alex",
+      "age": 35,
+      "cash": 1300,
+      "id": 1
+    },
+    {
+      "name": "Mel dos Santos",
+      "age": 2,
+      "cash": 0,
+      "id": 2
+    },
+    {
+      "name": "Terry Bogard",
+      "age": 25,
+      "cash": 2000,
+      "id": 3
+    }
+  ],
+  "test": {
+    "id": 0
+  }
+}
