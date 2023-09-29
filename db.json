@@ -1,19 +1,39 @@
 {
-  "users": [
+  "db": [
     {
-      "name": "Alex",
-      "age": 35,
-      "cash": 1300,
-      "id": 1
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
     },
     {
-      "name": "Mel dos Santos",
-      "age": 2,
-      "cash": 0,
+      "users": {
+        "nome": "Alex"
+      },
       "id": 2
+    },
+    {
+      "admin": [
+        {
+          "user": "root"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "user": [
+        {
+          "nome": "Sandro"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "users": [
+        {
+          "nome": "Sandro"
+        }
+      ],
+      "id": 5
     }
-  ],
-  "test": {
-    "id": 0
-  }
+  ]
 }
