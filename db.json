@@ -4,36 +4,5 @@
       "id": 1,
       "title": "json-server",
       "author": "typicode"
-    },
-    {
-      "users": {
-        "nome": "Alex"
-      },
-      "id": 2
-    },
-    {
-      "admin": [
-        {
-          "user": "root"
-        }
-      ],
-      "id": 3
-    },
-    {
-      "user": [
-        {
-          "nome": "Sandro"
-        }
-      ],
-      "id": 4
-    },
-    {
-      "users": [
-        {
-          "nome": "Sandro"
-        }
-      ],
-      "id": 5
-    }
-  ]
+    } ]
 }
